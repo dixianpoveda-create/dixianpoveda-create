@@ -1,54 +1,105 @@
-# <div align="center">🚀 HOLA, SOY DIXIAN</div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Bienvenido+a+mi+universo+digital;Estudiante+de+Ingenieria;Desarrollador+de+Software;Transformando+ideas+en+codigo)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090014,50:5121A6,100:00CFFF&text=TU%20NOMBRE&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=SOFTWARE%20DEVELOPER&descAlignY=60&descSize=19&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=900&color=BC85FF&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+universo+digital;Desarrollando+el+futuro;Code+%7C+Create+%7C+Innovate" />
+
+</div>
+
+<br>
+
+<h1 align="center">👋 Hola, soy Dixian</h1>
+
+<h3 align="center">
+💜 Desarrollador de Software 💙
+</h3>
+
+<p align="center">
+🎓 Ingeniería en Ciencias de la Computación <br>
+🏛️ UNAN-Managua | Nicaragua 🇳🇮
+</p>
+
+---
+
+## 🚀 Sobre mí
+
+<table>
+<tr>
+<td>
+
+💻 Apasionado por el desarrollo de software.
+
+⚡ Me encanta crear soluciones tecnológicas.
+
+🧠 Interesado en bases de datos, redes y programación.
+
+🌐 Desarrollo aplicaciones de escritorio y web.
+
+🎯 Mi objetivo es seguir creciendo como desarrollador.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tecnologías
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,html,css,js,python&theme=dark&perline=9" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL_SERVER-121025?style=for-the-badge&logo=microsoftsqlserver&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/WINDOWS_FORMS-251348?style=for-the-badge&logo=windows&logoColor=BC85FF"/>
+<img src="https://img.shields.io/badge/CISCO_NETWORKING-101827?style=for-the-badge&logo=cisco&logoColor=00D9FF"/>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 📌 Proyectos destacados
 
-🎓 Estudiante de Ingeniería en Ciencias de la Computación en la UNAN-Managua.
+<table>
+<tr>
+<td width="50%" align="center">
 
-💻 Me apasiona el desarrollo de software, las bases de datos y las redes.
+### 💧 M.I.A.
 
-🚀 Me gusta crear aplicaciones que solucionen problemas reales.
+**Monitoreo Inteligente de Agua**
 
-🌎 Nicaragua.
+Aplicación para la gestión y monitoreo de fuentes de agua.
+
+<img src="https://img.shields.io/badge/C%23-.NET-7928CA?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-Server-00BFFF?style=flat-square"/>
+
+</td>
+<td width="50%" align="center">
+
+### 🚀 Mis proyectos
+
+**Desarrollo de Software**
+
+Aplicaciones y soluciones desarrolladas durante mi formación académica.
+
+<img src="https://img.shields.io/badge/Software-Developer-7928CA?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitHub-Projects-00BFFF?style=flat-square"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Tecnologías y herramientas
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,html,css,js,python&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BC85FF&icon_color=00D9FF&text_color=FFFFFF" height="170"/>
 
-</div>
-
-*Otras herramientas:* SQL Server · Cisco Packet Tracer · Windows Forms
-
----
-
-## 🌊 Proyectos destacados
-
-### 💧 M.I.A. — Monitoreo Inteligente de Agua
-
-Sistema orientado al monitoreo de fuentes de agua y la gestión de información ambiental.
-
-*Tecnologías:* C# · Windows Forms · SQL Server
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BC85FF&text_color=FFFFFF" height="170"/>
 
 </div>
 
@@ -58,9 +109,21 @@ Sistema orientado al monitoreo de fuentes de agua y la gestión de información 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+<a href="mailto:TU_CORREO@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-CONTACTAME-9D174D?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
+<a href="https://github.com/TU_USUARIO">
+<img src="https://img.shields.io/badge/GITHUB-MI_PERFIL-5121A6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONECTEMOS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=VISITAS+AL+PERFIL&color=7928CA&style=for-the-badge"/>
 
 </div>
 
@@ -68,8 +131,9 @@ Sistema orientado al monitoreo de fuentes de agua y la gestión de información 
 
 <div align="center">
 
-### ⚡ CODE · CREATE · INNOVATE ⚡
+### ⚡ CODE • CREATE • INNOVATE ⚡
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=00F7FF&style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,50:5121A6,100:090014&height=110&section=footer" width="100%"/>
 
-</div>![GitHub Stats Card](https://ghstats.dev/api/card?username=dixianpoveda-create&theme=midnight)
+</div>
+
