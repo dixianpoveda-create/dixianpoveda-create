@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090014,50:5121A6,100:00CFFF&text=DIXIAN&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=SOFTWARE%20DEVELOPER&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090014,50:5121A6,100:00CFFF&text=DIXIAN%20%F0%9F%A4%96%F0%9F%91%8B&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=SOFTWARE%20DEVELOPER&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
 <br>
 
@@ -133,6 +133,4 @@ Aplicaciones y soluciones desarrolladas durante mi formación académica.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,50:5121A6,100:090014&height=110&section=footer" width="100%"/>
 
 </div>
-
-
 
