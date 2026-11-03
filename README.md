@@ -1,25 +1,40 @@
+
+<!-- PERFIL FUTURISTA DE DIXIAN -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090014,50:5121A6,100:00CFFF&text=DIXIAN%20%F0%9F%A4%96%F0%9F%91%8B&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=SOFTWARE%20DEVELOPER&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<!-- BANNER CON ROBOT ANIMADO -->
 
-<br>
+<img
+  src="assets/banner-robot.gif"
+  alt="DIXIAN - Robot futurista saludando"
+  width="100%"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=900&color=BC85FF&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+universo+digital;Desarrollando+el+Futuro;Code+%7C+Create+%7C+Innovate" />
+<br><br>
+
+<!-- TEXTO ANIMADO -->
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=3000&pause=1000&color=BC85FF&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+universo+digital;Desarrollando+el+Futuro;Software+Developer;Code+%7C+Create+%7C+Innovate"
+  alt="Presentación animada"
+/>
 
 </div>
 
-<br>
+---
 
-<h1 align="center">👋 Hola, soy Dixian</h1>
+<div align="center">
 
-<h3 align="center">
-💜 Desarrollador de Software 💙
-</h3>
+# 👋 Hola, soy Dixian
 
-<p align="center">
-🎓 Ingeniería en Ciencias de la Computación <br>
+### 💜 Desarrollador de Software 💙
+
+🎓 Ingeniería en Ciencias de la Computación
+
 🏛️ UNAN-Managua | Nicaragua 🇳🇮
-</p>
+
+</div>
 
 ---
 
@@ -33,7 +48,7 @@
 
 ⚡ Me encanta crear soluciones tecnológicas.
 
-🧠 Interesado en bases de datos, redes y programación.
+🧠 Interesado en programación, bases de datos y redes.
 
 🌐 Desarrollo aplicaciones de escritorio y web.
 
@@ -49,12 +64,17 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,html,css,js,python&theme=dark&perline=9" />
+<img
+  src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,html,css,js,python&theme=dark&perline=9"
+  alt="Tecnologías"
+/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/SQL_SERVER-121025?style=for-the-badge&logo=microsoftsqlserver&logoColor=00D9FF"/>
+
 <img src="https://img.shields.io/badge/WINDOWS_FORMS-251348?style=for-the-badge&logo=windows&logoColor=BC85FF"/>
+
 <img src="https://img.shields.io/badge/CISCO_NETWORKING-101827?style=for-the-badge&logo=cisco&logoColor=00D9FF"/>
 
 </div>
@@ -74,18 +94,21 @@
 Aplicación orientada al monitoreo de fuentes de agua y la gestión de información ambiental.
 
 <img src="https://img.shields.io/badge/C%23-.NET-7928CA?style=flat-square"/>
+
 <img src="https://img.shields.io/badge/SQL-Server-00BFFF?style=flat-square"/>
 
 </td>
+
 <td width="50%" align="center">
 
 ### 🚀 Mis proyectos
 
 **Desarrollo de Software**
 
-Aplicaciones y soluciones desarrolladas durante mi formación académica.
+Aplicaciones desarrolladas durante mi formación académica.
 
 <img src="https://img.shields.io/badge/Software-Developer-7928CA?style=flat-square"/>
+
 <img src="https://img.shields.io/badge/GitHub-Projects-00BFFF?style=flat-square"/>
 
 </td>
@@ -98,9 +121,17 @@ Aplicaciones y soluciones desarrolladas durante mi formación académica.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dixianpoveda-create&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BC85FF&icon_color=00D9FF&text_color=FFFFFF" height="170"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=dixianpoveda-create&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BC85FF&icon_color=00D9FF&text_color=FFFFFF"
+  height="170"
+  alt="Estadísticas de GitHub"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixianpoveda-create&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BC85FF&text_color=FFFFFF" height="170"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixianpoveda-create&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BC85FF&text_color=FFFFFF"
+  height="170"
+  alt="Lenguajes utilizados"
+/>
 
 </div>
 
@@ -120,7 +151,10 @@ Aplicaciones y soluciones desarrolladas durante mi formación académica.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=dixianpoveda-create&label=VISITAS+AL+PERFIL&color=7928CA&style=for-the-badge"/>
+<img
+  src="https://komarev.com/ghpvc/?username=dixianpoveda-create&label=VISITAS+AL+PERFIL&color=7928CA&style=for-the-badge"
+  alt="Visitas al perfil"
+/>
 
 </div>
 
@@ -130,7 +164,10 @@ Aplicaciones y soluciones desarrolladas durante mi formación académica.
 
 ### ⚡ CODE • CREATE • INNOVATE ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,50:5121A6,100:090014&height=110&section=footer" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,50:5121A6,100:090014&height=110&section=footer"
+  width="100%"
+  alt="Decoración futurista"
+/>
 
 </div>
-
